@@ -4,7 +4,7 @@
 # See LICENCE.txt for license information
 #
 
-CUDA_HOME ?= /usr/local/cuda
+CUDA_HOME ?= /usr/local/cuda-7.5
 PREFIX ?= /usr/local
 VERBOSE ?= 0
 KEEP ?= 0
