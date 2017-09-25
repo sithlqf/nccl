@@ -4,7 +4,7 @@
 # See LICENCE.txt for license information
 #
 
-CUDA_HOME ?= /usr/local/nvidia
+CUDA_HOME ?= /usr/local/cuda
 PREFIX ?= /usr/local
 VERBOSE ?= 0
 KEEP ?= 0
